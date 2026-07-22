@@ -40,12 +40,15 @@ An ESP32-C3 based autonomous nano satellite prototype designed for environmental
 
 ### Front View
 
-<img src="images/satellite-frontview.jpg" width="500">
+<img src="images/satellite.frontview.jpg" width="500">
 
 ### Top View
 
-<img src="images/satellite-overhead.jpg" width="500">
+<img src="images/satellite.overhead.jpg" width="500">
 
+### Circuit Diagram
+
+<img src="images/circuit.satellite.jpg" width="500">
 
 ## Future Work
 
